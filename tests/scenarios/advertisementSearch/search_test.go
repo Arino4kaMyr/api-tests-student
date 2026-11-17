@@ -19,9 +19,9 @@ import (
 
 const (
 	existingAdTitle = "Babyfox дубайский шоколад" // полное название объявления
-	searchBeginning = "Babyfox" // подстрока из начала
-	searchMiddle    = "дубайский" // подстрока из середины
-	searchEnd       = "шоколад" // подстрока из конца
+	searchBeginning = "Babyfox"                   // подстрока из начала
+	searchMiddle    = "дубайский"                 // подстрока из середины
+	searchEnd       = "шоколад"                   // подстрока из конца
 )
 
 type TestSuite struct {
